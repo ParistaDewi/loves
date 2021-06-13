@@ -19,7 +19,7 @@ body{
 .navbar.navbar-default{
     background-image:none;
     background-color:rgba(255, 255, 255, 0.79);
-    opacity: 0.2;
+    opacity: 0.15;
     border:none;
 }
 .navbarheader{
