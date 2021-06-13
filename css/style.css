@@ -10,8 +10,6 @@
 * 	Template Style 
 *
 * ======================================================= */
-
-* ======================================================= */
 @charset "utf-8";
 /* CSS Document */
 body{
@@ -35,8 +33,7 @@ body{
 
 }
 
-
-
+/*===================*/
 
 
 
@@ -57,6 +54,8 @@ body{
   height: 100%;
   border: none;
 }
+
+
 
 
 
@@ -947,7 +946,7 @@ form label {
 #fh5co-header .display-tc .btn:hover,
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
-  background: #fff !important;
+  background: rgb(255, 255, 255) !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
